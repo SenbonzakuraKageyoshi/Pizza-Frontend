@@ -1,0 +1,12 @@
+@import './vendors/normalize.css';
+@import './vendors/vars.css';
+
+body{
+    background: var(--bg-color);
+}
+
+.container{
+    max-width: 1310px;
+    padding: 0px 10px;
+    margin: 0 auto;
+}

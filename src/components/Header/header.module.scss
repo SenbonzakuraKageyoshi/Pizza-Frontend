@@ -1,0 +1,18 @@
+.header{
+    background: var(--white);
+}
+
+.headerTop{
+    padding: 10px 0px;
+    border-bottom: 1px solid #F0F0F0;
+}
+
+.headerBottom{
+    padding: 15px 0px;
+    border-bottom: 1px solid #F0F0F0;
+}
+
+.headerContent{
+    display: flex;
+    justify-content: space-between;
+}
