@@ -3,3 +3,9 @@
     font-weight: 400;
     line-height: 18px;
 }
+
+@media(max-width: 550px){
+    .workingHours{
+        font-size: 12px;
+    }
+}
